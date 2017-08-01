@@ -1,0 +1,31 @@
+{
+  "name": "cordova-ios-plugin-no-statusbar",
+  "version": "0.0.2",
+  "description": "This plugin sets ITSAppUsesNonExemptEncryption to false in *-Info.plist file",
+  "cordova": {
+    "id": "cordova-ios-plugin-no-statusbar",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themattray/cordova-ios-plugin-no-statusbar.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "themattray",
+  "license": "BSD-3",
+  "bugs": {
+    "url": "https://github.com/themattray/cordova-ios-plugin-no-statusbar/issues"
+  },
+  "homepage": "https://github.com/themattray/cordova-ios-plugin-no-statusbar#readme"
+}
